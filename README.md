@@ -35,7 +35,7 @@ clone repository :
 git clone https://github/NauseaSB/dotfiles.git ~/
 ```
 
-### Additional information
+## Additional information
 - my polybar config are using [LelouchFR Config](https://github.com/lelouchfr/dotfiles) modified as per my personal preference
 - my rofi theme can be found in
 ```
