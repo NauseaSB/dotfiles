@@ -35,5 +35,6 @@ clone repository :
 git clone https://github/NauseaSB/dotfiles.git ~/
 ```
 
+
 > [!IMPORTANT]
 > this github repo is still in WIP status. so it weill be changed or deleted at anytime.
