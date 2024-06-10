@@ -23,8 +23,6 @@ Hi, welcome to my dotfiles github!
 
 ## Installation
 
-install basic needs :
-
 ```bash
 sudo pacman -S zsh st rofi feh picom polybar ranger unzip
 ```
