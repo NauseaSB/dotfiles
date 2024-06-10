@@ -24,7 +24,7 @@ Hi, welcome to my dotfiles github!
 ## Installation
 
 ```bash
-sudo pacman -S zsh st rofi feh picom polybar ranger unzip
+sudo pacman -S zsh rofi feh picom polybar ranger unzip
 ```
 **to install st use yay**
 
