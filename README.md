@@ -35,6 +35,13 @@ clone repository :
 git clone https://github/NauseaSB/dotfiles.git ~/
 ```
 
+### Additional information
+- my polybar config are using [LelouchFR Config](https://github.com/lelouchfr/dotfiles) modified as per my personal preference
+- my rofi theme can be found in
+```
+.local/share/rofi/themes/nausea.rasi
+```
+
 
 > [!IMPORTANT]
 > this github repo is still in WIP status. so it weill be changed or deleted at anytime.
