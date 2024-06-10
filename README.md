@@ -26,6 +26,7 @@ Hi, welcome to my dotfiles github!
 ```bash
 sudo pacman -S zsh st rofi feh picom polybar ranger unzip
 ```
+**to install st use yay**
 
 ## Additional information
 - my polybar config are using [LelouchFR Config](https://github.com/lelouchfr/dotfiles) modified as per my personal preference
