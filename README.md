@@ -21,18 +21,12 @@ Hi, welcome to my dotfiles github!
 ![screen](/img/img2.png)
 ![screen](/img/img3.png)
 
-## Installation needed
+## Installation
 
 install basic needs :
 
 ```bash
 sudo pacman -S zsh st rofi feh picom polybar ranger unzip
-```
-
-clone repository :
-
-```bash
-git clone https://github/NauseaSB/dotfiles.git ~/
 ```
 
 ## Additional information
