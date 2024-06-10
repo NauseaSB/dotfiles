@@ -5,6 +5,7 @@ Hi, welcome to my dotfiles github!
 ## Basic information (things needed)
 
 - wm : 13
+- os : arch
 - shell : zsh
 - terminal : st
 - launcher : rofi
