@@ -146,7 +146,8 @@ mode "exit: [l]ogout, [r]eboot, [s]hutdown" {
     bindsym Escape mode "default"
     bindsym Return mode "default"
 }
-bindsym Mod1+Shift+x mode "exit: [l]ogout, [r]eboot, [s]hutdown"
+#bindsym Mod1+Shift+x mode "exit: [l]ogout, [r]eboot, [s]hutdown"
+bindsym Mod1+Shift+x exec --no-startup-id rofi -show power-menu -modi power-menu:rofi-power-menu
 
 mode "resize" {
     # These bindings trigger as soon as you enter the resize mode
