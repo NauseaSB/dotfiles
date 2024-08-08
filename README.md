@@ -4,15 +4,15 @@ Hi, welcome to my dotfiles github!
 
 ## Basic information (things needed)
 
-- wm : 13
+- wm : i3
 - os : arch
 - shell : zsh
 - terminal : alacritty
 - launcher : rofi
-- imageviewer : feh
+- imageviewer : feh/gwenview
 - compositor : picom
 - statusbar : polybar
-- filemanager : ranger
+- filemanager : ranger/dolphin
 - fonts : hack, jetbrains mono, feather, inconsolata, liberation (which you can find most of them [here](https://www.nerdfonts.com/), but i mostly only use hack)
 
 ## Preview
@@ -24,7 +24,7 @@ Hi, welcome to my dotfiles github!
 ## Installation
 
 ```bash
-sudo pacman -S zsh rofi feh picom polybar ranger unzip alacritty
+sudo pacman -S zsh oh-my-zsh alacritty rofi rofi-power-menu feh gwenview picom polybar ranger dolphin flameshot
 ```
 
 ## Additional information
