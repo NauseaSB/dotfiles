@@ -7,13 +7,13 @@ Hi, welcome to my dotfiles github!
 - wm : 13
 - os : arch
 - shell : zsh
-- terminal : st
+- terminal : alacritty
 - launcher : rofi
 - imageviewer : feh
 - compositor : picom
 - statusbar : polybar
 - filemanager : ranger
-- fonts : hack, jetbrains mono, feather, inconsolata, liberation (which you can find most of them [here](https://www.nerdfonts.com/))
+- fonts : hack, jetbrains mono, feather, inconsolata, liberation (which you can find most of them [here](https://www.nerdfonts.com/), but i mostly only use hack)
 
 ## Preview
 
@@ -24,16 +24,15 @@ Hi, welcome to my dotfiles github!
 ## Installation
 
 ```bash
-sudo pacman -S zsh rofi feh picom polybar ranger unzip
+sudo pacman -S zsh rofi feh picom polybar ranger unzip alacritty
 ```
-**to install st use yay**
 
 ## Additional information
-- my polybar config are using [LelouchFR Config](https://github.com/lelouchfr/dotfiles) modified as per my personal preference
 - my rofi theme can be found in
 ```
 .local/share/rofi/themes/nausea.rasi
 ```
+it is actually normal theme but applied with catppuccin mocha color palette!
 
 
 > [!IMPORTANT]
