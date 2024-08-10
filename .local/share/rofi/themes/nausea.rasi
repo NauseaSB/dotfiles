@@ -1,21 +1,21 @@
 * {
-  font:   "Inconsolata Nerd Font 12";
+  font:   "Hack Nerd Font Mono 10";
 
-  bg0     : #1a1b26;
-  bg1     : #313244;
-  bg2     : #24283b;
-  bg3     : #414868;
-  fg0     : #c0caf5;
-  fg1     : #a9b1d6;
-  fg2     : #737aa2;
-  red     : #f7768e;
-  green   : #9ece6a;
-  yellow  : #e0af68;
-  blue    : #b4befe;
-  magenta : #9a7ecc;
+  bg0     : #313244;
+  bg1     : #45475a;
+  bg2     : #585b70;
+  bg3     : #585b70;
+  fg0     : #cdd6f4;
+  fg1     : #bac2de;
+  fg2     : #a6adc8;
+  red     : #f38ba8;
+  green   : #a6e3a1;
+  yellow  : #f9e2af;
+  blue    : #89b4fa;
+  magenta : #cba6f7;
   cyan    : #4abaaf;
 
-  accent: @blue;
+  accent: @magenta;
   urgent: @yellow;
 
   background-color : transparent;
@@ -36,9 +36,9 @@ window {
   x-offset : 4px;
   y-offset : 26px;
 
-  background-color: @bg1;
+  background-color: @bg0;
   border: 1px;
-  border-color: @bg3;
+  border-color: @bg0;
   border-radius: 6px;
 }
 
