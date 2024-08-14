@@ -1,6 +1,6 @@
 font pango:Hack Nerd Font Mono 10
 
-exec --no-startup-id feh --bg-fill ~/wallpaper/mocha-kita.png
+exec_always --no-startup-id feh --bg-fill ~/wallpaper/mocha-kita.png
 
 exec --no-startup-id dex --autostart --environment i3
 
@@ -64,7 +64,7 @@ bindsym Mod1+Shift+q kill
 bindsym Mod1+Shift+s exec --no-startup-id flameshot gui
 
 #bindsym Mod1+d exec --no-startup-id dmenu_run
-bindsym Mod1+d exec --no-startup-id rofi -show run
+bindsym Mod1+d exec --no-startup-id rofi -show drun
 
 bindsym Mod1+$left focus left
 bindsym Mod1+$down focus down
