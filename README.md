@@ -35,7 +35,7 @@ to copy the files to certain config file you can use stow, example:
 stow i3
 ```
 
-it will automatically copy this i3 config file to your config folder.
+this command will automatically copy this i3 config file to your config folder.
 
 
 ## Additional information
