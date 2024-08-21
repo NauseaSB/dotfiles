@@ -16,21 +16,27 @@ Hi, welcome to my dotfiles github!
 - texteditor : nvim/kate (for vim config i usually use [nvchad](https://nvchad.com/) (i also still new to vim/nvim so i still learning and barely used it, mainly still using kate))
 - fonts : hack, jetbrains mono, feather, inconsolata, liberation (which you can find most of them [here](https://www.nerdfonts.com/), but i mostly only use hack)
 
-## Preview
-
-![screen](/img/img1.png)
-![screen](/img/img2.png)
-![screen](/img/img3.png)
+## Preview (still on progress!)
 
 ## Installation
 
 ```bash
-sudo pacman -S zsh alacritty rofi rofi-power-menu feh gwenview picom polybar ranger dolphin nvim flameshot
+sudo pacman -S zsh alacritty rofi rofi-power-menu feh gwenview picom polybar ranger dolphin nvim flameshot stow
 ```
 
 ```bash
 yay -S rofi-power-menu oh-my-zsh-git
 ```
+
+to copy the files to certain config file you can use stow, example:
+
+
+```bash
+stow i3
+```
+
+it will automatically copy this i3 config file to your config folder.
+
 
 ## Additional information
 - my rofi theme can be found in (it is actually normal theme but applied with catppuccin mocha color palette!)
