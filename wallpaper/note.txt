@@ -1,0 +1,17 @@
+kiku-1 = @NOWORD_from1996 (twitter)
+kayoko-1 = @yunkkkker (twitter)
+changli-1 = @Five565 (twitter)
+btr-1 = @dora_one7 (twitter)
+gbc-1 = @FightingDodo95 (twitter)
+ba-2 = @seisu122231 (twitter)
+himari-1 = @Sangnoksu_ (twitter)
+csm-1 = @Kaiserofart (twitter)
+morning-walk = https://www.pixiv.net/en/artworks/121764304 (紺屋鴉江)
+nordtest1 = https://github.com/ChrisTitusTech/nord-background
+forest-library = https://www.pixiv.net/en/artworks/120581878 (Taizo)
+daylight = https://www.pixiv.net/en/artworks/117032857 (HKcutie)
+summer-pond = https://www.pixiv.net/en/artworks/120131758 (Lifeline)
+photographers = https://www.pixiv.net/en/artworks/119724179 (はーみん)
+castle = @misaki_hirooka (twitter)
+
+*if not listed = it's just anime screenshot
