@@ -21,11 +21,11 @@ Hi, welcome to my dotfiles github!
 ## Installation
 
 ```bash
-sudo pacman -S zsh alacritty rofi rofi-power-menu feh gwenview picom polybar ranger dolphin nvim flameshot stow
+sudo pacman -S zsh alacritty rofi feh gwenview picom polybar ranger dolphin nvim flameshot stow
 ```
 
 ```bash
-yay -S rofi-power-menu oh-my-zsh-git
+yay -S rofi-power-menu oh-my-zsh-git autotiling-git
 ```
 
 to copy the files to certain config file you can use stow, example:
