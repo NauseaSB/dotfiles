@@ -16,7 +16,12 @@ Hi, welcome to my dotfiles github!
 - texteditor : nvim/kate (for vim config i usually use [nvchad](https://nvchad.com/) (i also still new to vim/nvim so i still learning and barely used it, mainly still using kate))
 - fonts : hack, jetbrains mono, feather, inconsolata, liberation (which you can find most of them [here](https://www.nerdfonts.com/), but i mostly only use hack)
 
-## Preview (still on progress!)
+## Preview
+![screen](/img/1.png)
+![screen](/img/2.png)
+![screen](/img/3.png)
+![screen](/img/4.png)
+![screen](/img/5.png)
 
 ## Installation
 
