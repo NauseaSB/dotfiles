@@ -50,6 +50,7 @@ this command will automatically copy this i3 config file to your config folder.
 ```
 - i still use kde aside i3 so for theme i used in kde basically just catppuccin mocha
 - for spicetify theme i use comfy theme and the color scheme set to catppuccin mocha
+- for sddm theme i use catppuccin you can get it [here](https://github.com/catppuccin/sddm)
 
 > [!IMPORTANT]
 > this github repo is still in WIP status. so it will be updated or deleted at anytime.
